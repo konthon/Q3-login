@@ -1,3 +1,17 @@
+# Q1 - Frontend - Grade Calculator
+
+## Technology
+React.js
+
+## How to Start
+1. `yarn install` or `npm install` in directory
+2. `yarn start` or `npm start`
+3. Start at URL: `http://localhost:3000/`
+
+## Password for Test
+`P@$$W0RD`
+-------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
