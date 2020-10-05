@@ -1,4 +1,4 @@
-# Q1 - Frontend - Grade Calculator
+# Q1 - Login Welcome
 
 ## Technology
 React.js
@@ -10,6 +10,7 @@ React.js
 
 ## Password for Test
 `P@$$W0RD`
+
 -------
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
