@@ -45,7 +45,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>{isLoggedIn ? `Welcome ${username}` : "Log in"}</h1>
+      <h1>{isLoggedIn ? `ยินดีต้อนรับ ${username}` : "Log in"}</h1>
       {isLoggedIn ? (
         <Welcome handleLogout={handleLogout} />
       ) : (
